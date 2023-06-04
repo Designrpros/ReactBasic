@@ -41,7 +41,7 @@ const Nav = styled.nav`
   align-items: center;
   padding: 1rem 2rem;
   background-color: #fff;
-  color: #333;
+  background-color: #FCFCFE;
   position: sticky;
   top: 0;
   border-bottom: 1px solid #ddd;
